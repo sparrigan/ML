@@ -1,0 +1,5 @@
+College score card
+https://collegescorecard.ed.gov/data/
+
+Quora suggested data science problems
+http://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science
